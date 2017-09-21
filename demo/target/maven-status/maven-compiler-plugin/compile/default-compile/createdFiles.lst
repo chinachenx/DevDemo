@@ -1,5 +1,0 @@
-com\think\entity\User.class
-com\think\controller\Login.class
-com\think\dao\UserMapper.class
-com\think\service\impl\UserServiceImpl.class
-com\think\service\UserService.class
